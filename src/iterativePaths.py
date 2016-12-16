@@ -92,12 +92,14 @@ def main():
 	
 	print 'Dimensions of Matrix:', lexMatrix.shape
 
+	print 'Maximal element of (I-X)^-1:',np.max(lexInvMatrix)
+
 	print 'Column Sums of (I-X)^-1:',np.sum(lexInvMatrix, axis=0)
 	print 'Row Sums of (I-X)^-1:',np.sum(lexInvMatrix, axis=1)
 	
 	# print adj matrix and (I-X)^-1 matrix
-	print lexMatrix
-	print lexInvMatrix
+	#print lexMatrix
+	#print lexInvMatrix
 
 	'''
 	dupColSums = set([x for x in colSums if colSums.count(x) > 1])
