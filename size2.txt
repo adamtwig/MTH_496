@@ -1,0 +1,38 @@
+2 SS bb
+2 UDS acb
+2 USD abc
+2 SUD bac
+2 UUDD aacc
+2 UDUD acac
+aacc 0
+abc 1
+acac 2
+acb 3
+bac 4
+bb 5
+('acb', 'bb') 3 5
+('abc', 'acac') 1 2
+('abc', 'bb') 1 5
+('bac', 'bb') 4 5
+('aacc', 'abc') 0 1
+('aacc', 'bac') 0 4
+('aacc', 'acb') 0 3
+('acac', 'bac') 2 4
+('acac', 'acb') 2 3
+Dimensions of Matrix: (6, 6)
+Column Sums of Original: [0 1 1 2 2 3]
+Row Sums of Original: [3 2 2 1 1 0]
+Column Sums of (I-X)^-1: [ 1  2  3  5  5 13]
+Row Sums of (I-X)^-1: [12  7  5  2  2  1]
+[[0 1 0 1 1 0]
+ [0 0 1 0 0 1]
+ [0 0 0 1 1 0]
+ [0 0 0 0 0 1]
+ [0 0 0 0 0 1]
+ [0 0 0 0 0 0]]
+[[1 1 1 2 2 5]
+ [0 1 1 1 1 3]
+ [0 0 1 1 1 2]
+ [0 0 0 1 0 1]
+ [0 0 0 0 1 1]
+ [0 0 0 0 0 1]]

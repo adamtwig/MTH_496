@@ -1,0 +1,11 @@
+#!/bin/bash
+#./iterativePaths.py 1 > size1.txt
+#./iterativePaths.py 2 > size2.txt
+#./iterativePaths.py 3 > size3.txt
+#./iterativePaths.py 4 > size4.txt
+#./iterativePaths.py 5 > size5.txt
+./iterativePaths.py 6 > size6.txt
+./iterativePaths.py 7 > size7.txt
+./iterativePaths.py 8 > size8.txt
+./iterativePaths.py 9 > size9.txt
+./iterativePaths.py 10 > size10.txt

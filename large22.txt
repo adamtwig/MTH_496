@@ -1,0 +1,170 @@
+3 SSS bbb
+3 UDSS acbb
+3 USDS abcb
+3 USSD abbc
+3 SUDS bacb
+3 SUSD babc
+3 SSUD bbac
+3 UUDDS aaccb
+3 UUDSD aacbc
+3 UUSDD aabcc
+3 UDUDS acacb
+3 UDUSD acabc
+3 UDSUD acbac
+3 USUDD abacc
+3 USDUD abcac
+3 SUUDD baacc
+3 SUDUD bacac
+3 UUUDDD aaaccc
+3 UUDUDD aacacc
+3 UUDDUD aaccac
+3 UDUUDD acaacc
+3 UDUDUD acacac
+aaaccc 0
+aabcc 1
+aacacc 2
+aacbc 3
+aaccac 4
+aaccb 5
+abacc 6
+abbc 7
+abcac 8
+abcb 9
+acaacc 10
+acabc 11
+acacac 12
+acacb 13
+acbac 14
+acbb 15
+baacc 16
+babc 17
+bacac 18
+bacb 19
+bbac 20
+bbb 21
+('acbb', 'bbb') 15 21
+('abcb', 'acacb') 9 13
+('abcb', 'bbb') 9 21
+('abbc', 'acabc') 7 11
+('abbc', 'abcac') 7 8
+('abbc', 'bbb') 7 21
+('bacb', 'bbb') 19 21
+('babc', 'bacac') 17 18
+('babc', 'bbb') 17 21
+('bbac', 'bbb') 20 21
+('aaccb', 'abcb') 5 9
+('aaccb', 'bacb') 5 19
+('aaccb', 'acbb') 5 15
+('aacbc', 'aaccac') 3 4
+('aacbc', 'abbc') 3 7
+('aacbc', 'bacb') 3 19
+('aacbc', 'acbb') 3 15
+('aabcc', 'aacacc') 1 2
+('aabcc', 'abbc') 1 7
+('aabcc', 'babc') 1 17
+('aabcc', 'abcb') 1 9
+('acacb', 'bacb') 13 19
+('acacb', 'acbb') 13 15
+('acabc', 'acacac') 11 12
+('acabc', 'babc') 11 17
+('acabc', 'acbb') 11 15
+('acbac', 'bbac') 14 20
+('acbac', 'acbb') 14 15
+('abacc', 'acaacc') 6 10
+('abacc', 'abbc') 6 7
+('abacc', 'bbac') 6 20
+('abacc', 'bacb') 6 19
+('abcac', 'acacac') 8 12
+('abcac', 'bbac') 8 20
+('abcac', 'abcb') 8 9
+('baacc', 'babc') 16 17
+('baacc', 'bbac') 16 20
+('baacc', 'bacb') 16 19
+('bacac', 'bbac') 18 20
+('bacac', 'bacb') 18 19
+('aaaccc', 'aabcc') 0 1
+('aaaccc', 'abacc') 0 6
+('aaaccc', 'aacbc') 0 3
+('aaaccc', 'baacc') 0 16
+('aaaccc', 'aaccb') 0 5
+('aacacc', 'abacc') 2 6
+('aacacc', 'aacbc') 2 3
+('aacacc', 'bacac') 2 18
+('aacacc', 'acacb') 2 13
+('aaccac', 'abcac') 4 8
+('aaccac', 'bacac') 4 18
+('aaccac', 'acbac') 4 14
+('aaccac', 'aaccb') 4 5
+('acaacc', 'baacc') 10 16
+('acaacc', 'acabc') 10 11
+('acaacc', 'acbac') 10 14
+('acaacc', 'acacb') 10 13
+('acacac', 'bacac') 12 18
+('acacac', 'acbac') 12 14
+('acacac', 'acacb') 12 13
+[[0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+ [0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0]
+ [0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0]
+ [0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0]
+ [0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0]
+ [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0]
+ [0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+ [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1]
+ [0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]
+[[  1   1   1   2   2   3   2   5   7  11   2   7  14  28  18  58   3  11
+   28  66  58 209]
+ [  0   1   1   1   1   1   1   3   4   6   1   4   8  16  10  32   1   6
+   16  36  32 115]
+ [  0   0   1   1   1   1   1   2   3   4   1   3   6  12   8  25   1   4
+   12  28  25  88]
+ [  0   0   0   1   1   1   0   1   2   3   0   1   3   6   4  13   0   1
+    5  13  11  42]
+ [  0   0   0   0   1   1   0   0   1   2   0   0   1   3   2   6   0   0
+    2   6   5  19]
+ [  0   0   0   0   0   1   0   0   0   1   0   0   0   1   0   2   0   0
+    0   2   0   5]
+ [  0   0   0   0   0   0   1   1   1   1   1   2   3   5   4  11   1   3
+    6  13  13  42]
+ [  0   0   0   0   0   0   0   1   1   1   0   1   2   3   2   6   0   1
+    3   6   6  21]
+ [  0   0   0   0   0   0   0   0   1   1   0   0   1   2   1   3   0   0
+    1   3   3  10]
+ [  0   0   0   0   0   0   0   0   0   1   0   0   0   1   0   1   0   0
+    0   1   0   3]
+ [  0   0   0   0   0   0   0   0   0   0   1   1   1   2   2   5   1   2
+    3   6   6  19]
+ [  0   0   0   0   0   0   0   0   0   0   0   1   1   1   1   3   0   1
+    2   3   3  10]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   1   1   1   2   0   0
+    1   2   2   6]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0
+    0   1   0   2]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0
+    0   0   1   2]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   0   0   1]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1
+    1   2   2   5]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+    1   1   1   3]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    1   1   1   2]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   1   0   1]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   1   1]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+    0   0   0   1]]

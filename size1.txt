@@ -1,0 +1,14 @@
+1 S b
+1 UD ac
+ac 0
+b 1
+('ac', 'b') 0 1
+Dimensions of Matrix: (2, 2)
+Column Sums of Original: [0 1]
+Row Sums of Original: [1 0]
+Column Sums of (I-X)^-1: [1 2]
+Row Sums of (I-X)^-1: [2 1]
+[[0 1]
+ [0 0]]
+[[1 1]
+ [0 1]]

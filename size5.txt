@@ -1,0 +1,1754 @@
+5 SSSSS bbbbb
+5 UDSSSS acbbbb
+5 USDSSS abcbbb
+5 USSDSS abbcbb
+5 USSSDS abbbcb
+5 USSSSD abbbbc
+5 SUDSSS bacbbb
+5 SUSDSS babcbb
+5 SUSSDS babbcb
+5 SUSSSD babbbc
+5 SSUDSS bbacbb
+5 SSUSDS bbabcb
+5 SSUSSD bbabbc
+5 SSSUDS bbbacb
+5 SSSUSD bbbabc
+5 SSSSUD bbbbac
+5 UUDDSSS aaccbbb
+5 UUDSDSS aacbcbb
+5 UUDSSDS aacbbcb
+5 UUDSSSD aacbbbc
+5 UUSDDSS aabccbb
+5 UUSDSDS aabcbcb
+5 UUSDSSD aabcbbc
+5 UUSSDDS aabbccb
+5 UUSSDSD aabbcbc
+5 UUSSSDD aabbbcc
+5 UDUDSSS acacbbb
+5 UDUSDSS acabcbb
+5 UDUSSDS acabbcb
+5 UDUSSSD acabbbc
+5 UDSUDSS acbacbb
+5 UDSUSDS acbabcb
+5 UDSUSSD acbabbc
+5 UDSSUDS acbbacb
+5 UDSSUSD acbbabc
+5 UDSSSUD acbbbac
+5 USUDDSS abaccbb
+5 USUDSDS abacbcb
+5 USUDSSD abacbbc
+5 USUSDDS ababccb
+5 USUSDSD ababcbc
+5 USUSSDD ababbcc
+5 USDUDSS abcacbb
+5 USDUSDS abcabcb
+5 USDUSSD abcabbc
+5 USDSUDS abcbacb
+5 USDSUSD abcbabc
+5 USDSSUD abcbbac
+5 USSUDDS abbaccb
+5 USSUDSD abbacbc
+5 USSUSDD abbabcc
+5 USSDUDS abbcacb
+5 USSDUSD abbcabc
+5 USSDSUD abbcbac
+5 USSSUDD abbbacc
+5 USSSDUD abbbcac
+5 SUUDDSS baaccbb
+5 SUUDSDS baacbcb
+5 SUUDSSD baacbbc
+5 SUUSDDS baabccb
+5 SUUSDSD baabcbc
+5 SUUSSDD baabbcc
+5 SUDUDSS bacacbb
+5 SUDUSDS bacabcb
+5 SUDUSSD bacabbc
+5 SUDSUDS bacbacb
+5 SUDSUSD bacbabc
+5 SUDSSUD bacbbac
+5 SUSUDDS babaccb
+5 SUSUDSD babacbc
+5 SUSUSDD bababcc
+5 SUSDUDS babcacb
+5 SUSDUSD babcabc
+5 SUSDSUD babcbac
+5 SUSSUDD babbacc
+5 SUSSDUD babbcac
+5 SSUUDDS bbaaccb
+5 SSUUDSD bbaacbc
+5 SSUUSDD bbaabcc
+5 SSUDUDS bbacacb
+5 SSUDUSD bbacabc
+5 SSUDSUD bbacbac
+5 SSUSUDD bbabacc
+5 SSUSDUD bbabcac
+5 SSSUUDD bbbaacc
+5 SSSUDUD bbbacac
+5 UUUDDDSS aaacccbb
+5 UUUDDSDS aaaccbcb
+5 UUUDDSSD aaaccbbc
+5 UUUDSDDS aaacbccb
+5 UUUDSDSD aaacbcbc
+5 UUUDSSDD aaacbbcc
+5 UUUSDDDS aaabcccb
+5 UUUSDDSD aaabccbc
+5 UUUSDSDD aaabcbcc
+5 UUUSSDDD aaabbccc
+5 UUDUDDSS aacaccbb
+5 UUDUDSDS aacacbcb
+5 UUDUDSSD aacacbbc
+5 UUDUSDDS aacabccb
+5 UUDUSDSD aacabcbc
+5 UUDUSSDD aacabbcc
+5 UUDDUDSS aaccacbb
+5 UUDDUSDS aaccabcb
+5 UUDDUSSD aaccabbc
+5 UUDDSUDS aaccbacb
+5 UUDDSUSD aaccbabc
+5 UUDDSSUD aaccbbac
+5 UUDSUDDS aacbaccb
+5 UUDSUDSD aacbacbc
+5 UUDSUSDD aacbabcc
+5 UUDSDUDS aacbcacb
+5 UUDSDUSD aacbcabc
+5 UUDSDSUD aacbcbac
+5 UUDSSUDD aacbbacc
+5 UUDSSDUD aacbbcac
+5 UUSUDDDS aabacccb
+5 UUSUDDSD aabaccbc
+5 UUSUDSDD aabacbcc
+5 UUSUSDDD aababccc
+5 UUSDUDDS aabcaccb
+5 UUSDUDSD aabcacbc
+5 UUSDUSDD aabcabcc
+5 UUSDDUDS aabccacb
+5 UUSDDUSD aabccabc
+5 UUSDDSUD aabccbac
+5 UUSDSUDD aabcbacc
+5 UUSDSDUD aabcbcac
+5 UUSSUDDD aabbaccc
+5 UUSSDUDD aabbcacc
+5 UUSSDDUD aabbccac
+5 UDUUDDSS acaaccbb
+5 UDUUDSDS acaacbcb
+5 UDUUDSSD acaacbbc
+5 UDUUSDDS acaabccb
+5 UDUUSDSD acaabcbc
+5 UDUUSSDD acaabbcc
+5 UDUDUDSS acacacbb
+5 UDUDUSDS acacabcb
+5 UDUDUSSD acacabbc
+5 UDUDSUDS acacbacb
+5 UDUDSUSD acacbabc
+5 UDUDSSUD acacbbac
+5 UDUSUDDS acabaccb
+5 UDUSUDSD acabacbc
+5 UDUSUSDD acababcc
+5 UDUSDUDS acabcacb
+5 UDUSDUSD acabcabc
+5 UDUSDSUD acabcbac
+5 UDUSSUDD acabbacc
+5 UDUSSDUD acabbcac
+5 UDSUUDDS acbaaccb
+5 UDSUUDSD acbaacbc
+5 UDSUUSDD acbaabcc
+5 UDSUDUDS acbacacb
+5 UDSUDUSD acbacabc
+5 UDSUDSUD acbacbac
+5 UDSUSUDD acbabacc
+5 UDSUSDUD acbabcac
+5 UDSSUUDD acbbaacc
+5 UDSSUDUD acbbacac
+5 USUUDDDS abaacccb
+5 USUUDDSD abaaccbc
+5 USUUDSDD abaacbcc
+5 USUUSDDD abaabccc
+5 USUDUDDS abacaccb
+5 USUDUDSD abacacbc
+5 USUDUSDD abacabcc
+5 USUDDUDS abaccacb
+5 USUDDUSD abaccabc
+5 USUDDSUD abaccbac
+5 USUDSUDD abacbacc
+5 USUDSDUD abacbcac
+5 USUSUDDD ababaccc
+5 USUSDUDD ababcacc
+5 USUSDDUD ababccac
+5 USDUUDDS abcaaccb
+5 USDUUDSD abcaacbc
+5 USDUUSDD abcaabcc
+5 USDUDUDS abcacacb
+5 USDUDUSD abcacabc
+5 USDUDSUD abcacbac
+5 USDUSUDD abcabacc
+5 USDUSDUD abcabcac
+5 USDSUUDD abcbaacc
+5 USDSUDUD abcbacac
+5 USSUUDDD abbaaccc
+5 USSUDUDD abbacacc
+5 USSUDDUD abbaccac
+5 USSDUUDD abbcaacc
+5 USSDUDUD abbcacac
+5 SUUUDDDS baaacccb
+5 SUUUDDSD baaaccbc
+5 SUUUDSDD baaacbcc
+5 SUUUSDDD baaabccc
+5 SUUDUDDS baacaccb
+5 SUUDUDSD baacacbc
+5 SUUDUSDD baacabcc
+5 SUUDDUDS baaccacb
+5 SUUDDUSD baaccabc
+5 SUUDDSUD baaccbac
+5 SUUDSUDD baacbacc
+5 SUUDSDUD baacbcac
+5 SUUSUDDD baabaccc
+5 SUUSDUDD baabcacc
+5 SUUSDDUD baabccac
+5 SUDUUDDS bacaaccb
+5 SUDUUDSD bacaacbc
+5 SUDUUSDD bacaabcc
+5 SUDUDUDS bacacacb
+5 SUDUDUSD bacacabc
+5 SUDUDSUD bacacbac
+5 SUDUSUDD bacabacc
+5 SUDUSDUD bacabcac
+5 SUDSUUDD bacbaacc
+5 SUDSUDUD bacbacac
+5 SUSUUDDD babaaccc
+5 SUSUDUDD babacacc
+5 SUSUDDUD babaccac
+5 SUSDUUDD babcaacc
+5 SUSDUDUD babcacac
+5 SSUUUDDD bbaaaccc
+5 SSUUDUDD bbaacacc
+5 SSUUDDUD bbaaccac
+5 SSUDUUDD bbacaacc
+5 SSUDUDUD bbacacac
+5 UUUUDDDDS aaaaccccb
+5 UUUUDDDSD aaaacccbc
+5 UUUUDDSDD aaaaccbcc
+5 UUUUDSDDD aaaacbccc
+5 UUUUSDDDD aaaabcccc
+5 UUUDUDDDS aaacacccb
+5 UUUDUDDSD aaacaccbc
+5 UUUDUDSDD aaacacbcc
+5 UUUDUSDDD aaacabccc
+5 UUUDDUDDS aaaccaccb
+5 UUUDDUDSD aaaccacbc
+5 UUUDDUSDD aaaccabcc
+5 UUUDDDUDS aaacccacb
+5 UUUDDDUSD aaacccabc
+5 UUUDDDSUD aaacccbac
+5 UUUDDSUDD aaaccbacc
+5 UUUDDSDUD aaaccbcac
+5 UUUDSUDDD aaacbaccc
+5 UUUDSDUDD aaacbcacc
+5 UUUDSDDUD aaacbccac
+5 UUUSUDDDD aaabacccc
+5 UUUSDUDDD aaabcaccc
+5 UUUSDDUDD aaabccacc
+5 UUUSDDDUD aaabcccac
+5 UUDUUDDDS aacaacccb
+5 UUDUUDDSD aacaaccbc
+5 UUDUUDSDD aacaacbcc
+5 UUDUUSDDD aacaabccc
+5 UUDUDUDDS aacacaccb
+5 UUDUDUDSD aacacacbc
+5 UUDUDUSDD aacacabcc
+5 UUDUDDUDS aacaccacb
+5 UUDUDDUSD aacaccabc
+5 UUDUDDSUD aacaccbac
+5 UUDUDSUDD aacacbacc
+5 UUDUDSDUD aacacbcac
+5 UUDUSUDDD aacabaccc
+5 UUDUSDUDD aacabcacc
+5 UUDUSDDUD aacabccac
+5 UUDDUUDDS aaccaaccb
+5 UUDDUUDSD aaccaacbc
+5 UUDDUUSDD aaccaabcc
+5 UUDDUDUDS aaccacacb
+5 UUDDUDUSD aaccacabc
+5 UUDDUDSUD aaccacbac
+5 UUDDUSUDD aaccabacc
+5 UUDDUSDUD aaccabcac
+5 UUDDSUUDD aaccbaacc
+5 UUDDSUDUD aaccbacac
+5 UUDSUUDDD aacbaaccc
+5 UUDSUDUDD aacbacacc
+5 UUDSUDDUD aacbaccac
+5 UUDSDUUDD aacbcaacc
+5 UUDSDUDUD aacbcacac
+5 UUSUUDDDD aabaacccc
+5 UUSUDUDDD aabacaccc
+5 UUSUDDUDD aabaccacc
+5 UUSUDDDUD aabacccac
+5 UUSDUUDDD aabcaaccc
+5 UUSDUDUDD aabcacacc
+5 UUSDUDDUD aabcaccac
+5 UUSDDUUDD aabccaacc
+5 UUSDDUDUD aabccacac
+5 UDUUUDDDS acaaacccb
+5 UDUUUDDSD acaaaccbc
+5 UDUUUDSDD acaaacbcc
+5 UDUUUSDDD acaaabccc
+5 UDUUDUDDS acaacaccb
+5 UDUUDUDSD acaacacbc
+5 UDUUDUSDD acaacabcc
+5 UDUUDDUDS acaaccacb
+5 UDUUDDUSD acaaccabc
+5 UDUUDDSUD acaaccbac
+5 UDUUDSUDD acaacbacc
+5 UDUUDSDUD acaacbcac
+5 UDUUSUDDD acaabaccc
+5 UDUUSDUDD acaabcacc
+5 UDUUSDDUD acaabccac
+5 UDUDUUDDS acacaaccb
+5 UDUDUUDSD acacaacbc
+5 UDUDUUSDD acacaabcc
+5 UDUDUDUDS acacacacb
+5 UDUDUDUSD acacacabc
+5 UDUDUDSUD acacacbac
+5 UDUDUSUDD acacabacc
+5 UDUDUSDUD acacabcac
+5 UDUDSUUDD acacbaacc
+5 UDUDSUDUD acacbacac
+5 UDUSUUDDD acabaaccc
+5 UDUSUDUDD acabacacc
+5 UDUSUDDUD acabaccac
+5 UDUSDUUDD acabcaacc
+5 UDUSDUDUD acabcacac
+5 UDSUUUDDD acbaaaccc
+5 UDSUUDUDD acbaacacc
+5 UDSUUDDUD acbaaccac
+5 UDSUDUUDD acbacaacc
+5 UDSUDUDUD acbacacac
+5 USUUUDDDD abaaacccc
+5 USUUDUDDD abaacaccc
+5 USUUDDUDD abaaccacc
+5 USUUDDDUD abaacccac
+5 USUDUUDDD abacaaccc
+5 USUDUDUDD abacacacc
+5 USUDUDDUD abacaccac
+5 USUDDUUDD abaccaacc
+5 USUDDUDUD abaccacac
+5 USDUUUDDD abcaaaccc
+5 USDUUDUDD abcaacacc
+5 USDUUDDUD abcaaccac
+5 USDUDUUDD abcacaacc
+5 USDUDUDUD abcacacac
+5 SUUUUDDDD baaaacccc
+5 SUUUDUDDD baaacaccc
+5 SUUUDDUDD baaaccacc
+5 SUUUDDDUD baaacccac
+5 SUUDUUDDD baacaaccc
+5 SUUDUDUDD baacacacc
+5 SUUDUDDUD baacaccac
+5 SUUDDUUDD baaccaacc
+5 SUUDDUDUD baaccacac
+5 SUDUUUDDD bacaaaccc
+5 SUDUUDUDD bacaacacc
+5 SUDUUDDUD bacaaccac
+5 SUDUDUUDD bacacaacc
+5 SUDUDUDUD bacacacac
+aaaabcccc 0
+aaaacbccc 1
+aaaaccbcc 2
+aaaacccbc 3
+aaaaccccb 4
+aaabacccc 5
+aaabbccc 6
+aaabcaccc 7
+aaabcbcc 8
+aaabccacc 9
+aaabccbc 10
+aaabcccac 11
+aaabcccb 12
+aaacabccc 13
+aaacacbcc 14
+aaacaccbc 15
+aaacacccb 16
+aaacbaccc 17
+aaacbbcc 18
+aaacbcacc 19
+aaacbcbc 20
+aaacbccac 21
+aaacbccb 22
+aaaccabcc 23
+aaaccacbc 24
+aaaccaccb 25
+aaaccbacc 26
+aaaccbbc 27
+aaaccbcac 28
+aaaccbcb 29
+aaacccabc 30
+aaacccacb 31
+aaacccbac 32
+aaacccbb 33
+aabaacccc 34
+aababccc 35
+aabacaccc 36
+aabacbcc 37
+aabaccacc 38
+aabaccbc 39
+aabacccac 40
+aabacccb 41
+aabbaccc 42
+aabbbcc 43
+aabbcacc 44
+aabbcbc 45
+aabbccac 46
+aabbccb 47
+aabcaaccc 48
+aabcabcc 49
+aabcacacc 50
+aabcacbc 51
+aabcaccac 52
+aabcaccb 53
+aabcbacc 54
+aabcbbc 55
+aabcbcac 56
+aabcbcb 57
+aabccaacc 58
+aabccabc 59
+aabccacac 60
+aabccacb 61
+aabccbac 62
+aabccbb 63
+aacaabccc 64
+aacaacbcc 65
+aacaaccbc 66
+aacaacccb 67
+aacabaccc 68
+aacabbcc 69
+aacabcacc 70
+aacabcbc 71
+aacabccac 72
+aacabccb 73
+aacacabcc 74
+aacacacbc 75
+aacacaccb 76
+aacacbacc 77
+aacacbbc 78
+aacacbcac 79
+aacacbcb 80
+aacaccabc 81
+aacaccacb 82
+aacaccbac 83
+aacaccbb 84
+aacbaaccc 85
+aacbabcc 86
+aacbacacc 87
+aacbacbc 88
+aacbaccac 89
+aacbaccb 90
+aacbbacc 91
+aacbbbc 92
+aacbbcac 93
+aacbbcb 94
+aacbcaacc 95
+aacbcabc 96
+aacbcacac 97
+aacbcacb 98
+aacbcbac 99
+aacbcbb 100
+aaccaabcc 101
+aaccaacbc 102
+aaccaaccb 103
+aaccabacc 104
+aaccabbc 105
+aaccabcac 106
+aaccabcb 107
+aaccacabc 108
+aaccacacb 109
+aaccacbac 110
+aaccacbb 111
+aaccbaacc 112
+aaccbabc 113
+aaccbacac 114
+aaccbacb 115
+aaccbbac 116
+aaccbbb 117
+abaaacccc 118
+abaabccc 119
+abaacaccc 120
+abaacbcc 121
+abaaccacc 122
+abaaccbc 123
+abaacccac 124
+abaacccb 125
+ababaccc 126
+ababbcc 127
+ababcacc 128
+ababcbc 129
+ababccac 130
+ababccb 131
+abacaaccc 132
+abacabcc 133
+abacacacc 134
+abacacbc 135
+abacaccac 136
+abacaccb 137
+abacbacc 138
+abacbbc 139
+abacbcac 140
+abacbcb 141
+abaccaacc 142
+abaccabc 143
+abaccacac 144
+abaccacb 145
+abaccbac 146
+abaccbb 147
+abbaaccc 148
+abbabcc 149
+abbacacc 150
+abbacbc 151
+abbaccac 152
+abbaccb 153
+abbbacc 154
+abbbbc 155
+abbbcac 156
+abbbcb 157
+abbcaacc 158
+abbcabc 159
+abbcacac 160
+abbcacb 161
+abbcbac 162
+abbcbb 163
+abcaaaccc 164
+abcaabcc 165
+abcaacacc 166
+abcaacbc 167
+abcaaccac 168
+abcaaccb 169
+abcabacc 170
+abcabbc 171
+abcabcac 172
+abcabcb 173
+abcacaacc 174
+abcacabc 175
+abcacacac 176
+abcacacb 177
+abcacbac 178
+abcacbb 179
+abcbaacc 180
+abcbabc 181
+abcbacac 182
+abcbacb 183
+abcbbac 184
+abcbbb 185
+acaaabccc 186
+acaaacbcc 187
+acaaaccbc 188
+acaaacccb 189
+acaabaccc 190
+acaabbcc 191
+acaabcacc 192
+acaabcbc 193
+acaabccac 194
+acaabccb 195
+acaacabcc 196
+acaacacbc 197
+acaacaccb 198
+acaacbacc 199
+acaacbbc 200
+acaacbcac 201
+acaacbcb 202
+acaaccabc 203
+acaaccacb 204
+acaaccbac 205
+acaaccbb 206
+acabaaccc 207
+acababcc 208
+acabacacc 209
+acabacbc 210
+acabaccac 211
+acabaccb 212
+acabbacc 213
+acabbbc 214
+acabbcac 215
+acabbcb 216
+acabcaacc 217
+acabcabc 218
+acabcacac 219
+acabcacb 220
+acabcbac 221
+acabcbb 222
+acacaabcc 223
+acacaacbc 224
+acacaaccb 225
+acacabacc 226
+acacabbc 227
+acacabcac 228
+acacabcb 229
+acacacabc 230
+acacacacb 231
+acacacbac 232
+acacacbb 233
+acacbaacc 234
+acacbabc 235
+acacbacac 236
+acacbacb 237
+acacbbac 238
+acacbbb 239
+acbaaaccc 240
+acbaabcc 241
+acbaacacc 242
+acbaacbc 243
+acbaaccac 244
+acbaaccb 245
+acbabacc 246
+acbabbc 247
+acbabcac 248
+acbabcb 249
+acbacaacc 250
+acbacabc 251
+acbacacac 252
+acbacacb 253
+acbacbac 254
+acbacbb 255
+acbbaacc 256
+acbbabc 257
+acbbacac 258
+acbbacb 259
+acbbbac 260
+acbbbb 261
+baaaacccc 262
+baaabccc 263
+baaacaccc 264
+baaacbcc 265
+baaaccacc 266
+baaaccbc 267
+baaacccac 268
+baaacccb 269
+baabaccc 270
+baabbcc 271
+baabcacc 272
+baabcbc 273
+baabccac 274
+baabccb 275
+baacaaccc 276
+baacabcc 277
+baacacacc 278
+baacacbc 279
+baacaccac 280
+baacaccb 281
+baacbacc 282
+baacbbc 283
+baacbcac 284
+baacbcb 285
+baaccaacc 286
+baaccabc 287
+baaccacac 288
+baaccacb 289
+baaccbac 290
+baaccbb 291
+babaaccc 292
+bababcc 293
+babacacc 294
+babacbc 295
+babaccac 296
+babaccb 297
+babbacc 298
+babbbc 299
+babbcac 300
+babbcb 301
+babcaacc 302
+babcabc 303
+babcacac 304
+babcacb 305
+babcbac 306
+babcbb 307
+bacaaaccc 308
+bacaabcc 309
+bacaacacc 310
+bacaacbc 311
+bacaaccac 312
+bacaaccb 313
+bacabacc 314
+bacabbc 315
+bacabcac 316
+bacabcb 317
+bacacaacc 318
+bacacabc 319
+bacacacac 320
+bacacacb 321
+bacacbac 322
+bacacbb 323
+bacbaacc 324
+bacbabc 325
+bacbacac 326
+bacbacb 327
+bacbbac 328
+bacbbb 329
+bbaaaccc 330
+bbaabcc 331
+bbaacacc 332
+bbaacbc 333
+bbaaccac 334
+bbaaccb 335
+bbabacc 336
+bbabbc 337
+bbabcac 338
+bbabcb 339
+bbacaacc 340
+bbacabc 341
+bbacacac 342
+bbacacb 343
+bbacbac 344
+bbacbb 345
+bbbaacc 346
+bbbabc 347
+bbbacac 348
+bbbacb 349
+bbbbac 350
+bbbbb 351
+('acbbbb', 'bbbbb') 261 351
+('abcbbb', 'acacbbb') 185 239
+('abcbbb', 'bbbbb') 185 351
+('abbcbb', 'acabcbb') 163 222
+('abbcbb', 'abcacbb') 163 179
+('abbcbb', 'bbbbb') 163 351
+('abbbcb', 'acabbcb') 157 216
+('abbbcb', 'abcabcb') 157 173
+('abbbcb', 'abbcacb') 157 161
+('abbbcb', 'bbbbb') 157 351
+('abbbbc', 'acabbbc') 155 214
+('abbbbc', 'abcabbc') 155 171
+('abbbbc', 'abbcabc') 155 159
+('abbbbc', 'abbbcac') 155 156
+('abbbbc', 'bbbbb') 155 351
+('bacbbb', 'bbbbb') 329 351
+('babcbb', 'bacacbb') 307 323
+('babcbb', 'bbbbb') 307 351
+('babbcb', 'bacabcb') 301 317
+('babbcb', 'babcacb') 301 305
+('babbcb', 'bbbbb') 301 351
+('babbbc', 'bacabbc') 299 315
+('babbbc', 'babcabc') 299 303
+('babbbc', 'babbcac') 299 300
+('babbbc', 'bbbbb') 299 351
+('bbacbb', 'bbbbb') 345 351
+('bbabcb', 'bbacacb') 339 343
+('bbabcb', 'bbbbb') 339 351
+('bbabbc', 'bbacabc') 337 341
+('bbabbc', 'bbabcac') 337 338
+('bbabbc', 'bbbbb') 337 351
+('bbbacb', 'bbbbb') 349 351
+('bbbabc', 'bbbacac') 347 348
+('bbbabc', 'bbbbb') 347 351
+('bbbbac', 'bbbbb') 350 351
+('aaccbbb', 'abcbbb') 117 185
+('aaccbbb', 'bacbbb') 117 329
+('aaccbbb', 'acbbbb') 117 261
+('aacbcbb', 'aaccacbb') 100 111
+('aacbcbb', 'abbcbb') 100 163
+('aacbcbb', 'bacbbb') 100 329
+('aacbcbb', 'acbbbb') 100 261
+('aacbbcb', 'aaccabcb') 94 107
+('aacbbcb', 'aacbcacb') 94 98
+('aacbbcb', 'abbbcb') 94 157
+('aacbbcb', 'bacbbb') 94 329
+('aacbbcb', 'acbbbb') 94 261
+('aacbbbc', 'aaccabbc') 92 105
+('aacbbbc', 'aacbcabc') 92 96
+('aacbbbc', 'aacbbcac') 92 93
+('aacbbbc', 'abbbbc') 92 155
+('aacbbbc', 'bacbbb') 92 329
+('aacbbbc', 'acbbbb') 92 261
+('aabccbb', 'aacaccbb') 63 84
+('aabccbb', 'abbcbb') 63 163
+('aabccbb', 'babcbb') 63 307
+('aabccbb', 'abcbbb') 63 185
+('aabcbcb', 'aacacbcb') 57 80
+('aabcbcb', 'aabccacb') 57 61
+('aabcbcb', 'abbbcb') 57 157
+('aabcbcb', 'babcbb') 57 307
+('aabcbcb', 'abcbbb') 57 185
+('aabcbbc', 'aacacbbc') 55 78
+('aabcbbc', 'aabccabc') 55 59
+('aabcbbc', 'aabcbcac') 55 56
+('aabcbbc', 'abbbbc') 55 155
+('aabcbbc', 'babcbb') 55 307
+('aabcbbc', 'abcbbb') 55 185
+('aabbccb', 'aacabccb') 47 73
+('aabbccb', 'aabcaccb') 47 53
+('aabbccb', 'abbbcb') 47 157
+('aabbccb', 'babbcb') 47 301
+('aabbccb', 'abbcbb') 47 163
+('aabbcbc', 'aacabcbc') 45 71
+('aabbcbc', 'aabcacbc') 45 51
+('aabbcbc', 'aabbccac') 45 46
+('aabbcbc', 'abbbbc') 45 155
+('aabbcbc', 'babbcb') 45 301
+('aabbcbc', 'abbcbb') 45 163
+('aabbbcc', 'aacabbcc') 43 69
+('aabbbcc', 'aabcabcc') 43 49
+('aabbbcc', 'aabbcacc') 43 44
+('aabbbcc', 'abbbbc') 43 155
+('aabbbcc', 'babbbc') 43 299
+('aabbbcc', 'abbbcb') 43 157
+('acacbbb', 'bacbbb') 239 329
+('acacbbb', 'acbbbb') 239 261
+('acabcbb', 'acacacbb') 222 233
+('acabcbb', 'babcbb') 222 307
+('acabcbb', 'acbbbb') 222 261
+('acabbcb', 'acacabcb') 216 229
+('acabbcb', 'acabcacb') 216 220
+('acabbcb', 'babbcb') 216 301
+('acabbcb', 'acbbbb') 216 261
+('acabbbc', 'acacabbc') 214 227
+('acabbbc', 'acabcabc') 214 218
+('acabbbc', 'acabbcac') 214 215
+('acabbbc', 'babbbc') 214 299
+('acabbbc', 'acbbbb') 214 261
+('acbacbb', 'bbacbb') 255 345
+('acbacbb', 'acbbbb') 255 261
+('acbabcb', 'acbacacb') 249 253
+('acbabcb', 'bbabcb') 249 339
+('acbabcb', 'acbbbb') 249 261
+('acbabbc', 'acbacabc') 247 251
+('acbabbc', 'acbabcac') 247 248
+('acbabbc', 'bbabbc') 247 337
+('acbabbc', 'acbbbb') 247 261
+('acbbacb', 'bbbacb') 259 349
+('acbbacb', 'acbbbb') 259 261
+('acbbabc', 'acbbacac') 257 258
+('acbbabc', 'bbbabc') 257 347
+('acbbabc', 'acbbbb') 257 261
+('acbbbac', 'bbbbac') 260 350
+('acbbbac', 'acbbbb') 260 261
+('abaccbb', 'acaaccbb') 147 206
+('abaccbb', 'abbcbb') 147 163
+('abaccbb', 'bbacbb') 147 345
+('abaccbb', 'bacbbb') 147 329
+('abacbcb', 'acaacbcb') 141 202
+('abacbcb', 'abaccacb') 141 145
+('abacbcb', 'abbbcb') 141 157
+('abacbcb', 'bbacbb') 141 345
+('abacbcb', 'bacbbb') 141 329
+('abacbbc', 'acaacbbc') 139 200
+('abacbbc', 'abaccabc') 139 143
+('abacbbc', 'abacbcac') 139 140
+('abacbbc', 'abbbbc') 139 155
+('abacbbc', 'bbacbb') 139 345
+('abacbbc', 'bacbbb') 139 329
+('ababccb', 'acaabccb') 131 195
+('ababccb', 'abacaccb') 131 137
+('ababccb', 'abbbcb') 131 157
+('ababccb', 'bbabcb') 131 339
+('ababccb', 'babcbb') 131 307
+('ababcbc', 'acaabcbc') 129 193
+('ababcbc', 'abacacbc') 129 135
+('ababcbc', 'ababccac') 129 130
+('ababcbc', 'abbbbc') 129 155
+('ababcbc', 'bbabcb') 129 339
+('ababcbc', 'babcbb') 129 307
+('ababbcc', 'acaabbcc') 127 191
+('ababbcc', 'abacabcc') 127 133
+('ababbcc', 'ababcacc') 127 128
+('ababbcc', 'abbbbc') 127 155
+('ababbcc', 'bbabbc') 127 337
+('ababbcc', 'babbcb') 127 301
+('abcacbb', 'acacacbb') 179 233
+('abcacbb', 'bbacbb') 179 345
+('abcacbb', 'abcbbb') 179 185
+('abcabcb', 'acacabcb') 173 229
+('abcabcb', 'abcacacb') 173 177
+('abcabcb', 'bbabcb') 173 339
+('abcabcb', 'abcbbb') 173 185
+('abcabbc', 'acacabbc') 171 227
+('abcabbc', 'abcacabc') 171 175
+('abcabbc', 'abcabcac') 171 172
+('abcabbc', 'bbabbc') 171 337
+('abcabbc', 'abcbbb') 171 185
+('abcbacb', 'acacbacb') 183 237
+('abcbacb', 'bbbacb') 183 349
+('abcbacb', 'abcbbb') 183 185
+('abcbabc', 'acacbabc') 181 235
+('abcbabc', 'abcbacac') 181 182
+('abcbabc', 'bbbabc') 181 347
+('abcbabc', 'abcbbb') 181 185
+('abcbbac', 'acacbbac') 184 238
+('abcbbac', 'bbbbac') 184 350
+('abcbbac', 'abcbbb') 184 185
+('abbaccb', 'acabaccb') 153 212
+('abbaccb', 'abcaaccb') 153 169
+('abbaccb', 'abbbcb') 153 157
+('abbaccb', 'bbbacb') 153 349
+('abbaccb', 'bbacbb') 153 345
+('abbacbc', 'acabacbc') 151 210
+('abbacbc', 'abcaacbc') 151 167
+('abbacbc', 'abbaccac') 151 152
+('abbacbc', 'abbbbc') 151 155
+('abbacbc', 'bbbacb') 151 349
+('abbacbc', 'bbacbb') 151 345
+('abbabcc', 'acababcc') 149 208
+('abbabcc', 'abcaabcc') 149 165
+('abbabcc', 'abbacacc') 149 150
+('abbabcc', 'abbbbc') 149 155
+('abbabcc', 'bbbabc') 149 347
+('abbabcc', 'bbabcb') 149 339
+('abbcacb', 'acabcacb') 161 220
+('abbcacb', 'abcacacb') 161 177
+('abbcacb', 'bbbacb') 161 349
+('abbcacb', 'abbcbb') 161 163
+('abbcabc', 'acabcabc') 159 218
+('abbcabc', 'abcacabc') 159 175
+('abbcabc', 'abbcacac') 159 160
+('abbcabc', 'bbbabc') 159 347
+('abbcabc', 'abbcbb') 159 163
+('abbcbac', 'acabcbac') 162 221
+('abbcbac', 'abcacbac') 162 178
+('abbcbac', 'bbbbac') 162 350
+('abbcbac', 'abbcbb') 162 163
+('abbbacc', 'acabbacc') 154 213
+('abbbacc', 'abcabacc') 154 170
+('abbbacc', 'abbcaacc') 154 158
+('abbbacc', 'abbbbc') 154 155
+('abbbacc', 'bbbbac') 154 350
+('abbbacc', 'bbbacb') 154 349
+('abbbcac', 'acabbcac') 156 215
+('abbbcac', 'abcabcac') 156 172
+('abbbcac', 'abbcacac') 156 160
+('abbbcac', 'bbbbac') 156 350
+('abbbcac', 'abbbcb') 156 157
+('baaccbb', 'babcbb') 291 307
+('baaccbb', 'bbacbb') 291 345
+('baaccbb', 'bacbbb') 291 329
+('baacbcb', 'baaccacb') 285 289
+('baacbcb', 'babbcb') 285 301
+('baacbcb', 'bbacbb') 285 345
+('baacbcb', 'bacbbb') 285 329
+('baacbbc', 'baaccabc') 283 287
+('baacbbc', 'baacbcac') 283 284
+('baacbbc', 'babbbc') 283 299
+('baacbbc', 'bbacbb') 283 345
+('baacbbc', 'bacbbb') 283 329
+('baabccb', 'baacaccb') 275 281
+('baabccb', 'babbcb') 275 301
+('baabccb', 'bbabcb') 275 339
+('baabccb', 'babcbb') 275 307
+('baabcbc', 'baacacbc') 273 279
+('baabcbc', 'baabccac') 273 274
+('baabcbc', 'babbbc') 273 299
+('baabcbc', 'bbabcb') 273 339
+('baabcbc', 'babcbb') 273 307
+('baabbcc', 'baacabcc') 271 277
+('baabbcc', 'baabcacc') 271 272
+('baabbcc', 'babbbc') 271 299
+('baabbcc', 'bbabbc') 271 337
+('baabbcc', 'babbcb') 271 301
+('bacacbb', 'bbacbb') 323 345
+('bacacbb', 'bacbbb') 323 329
+('bacabcb', 'bacacacb') 317 321
+('bacabcb', 'bbabcb') 317 339
+('bacabcb', 'bacbbb') 317 329
+('bacabbc', 'bacacabc') 315 319
+('bacabbc', 'bacabcac') 315 316
+('bacabbc', 'bbabbc') 315 337
+('bacabbc', 'bacbbb') 315 329
+('bacbacb', 'bbbacb') 327 349
+('bacbacb', 'bacbbb') 327 329
+('bacbabc', 'bacbacac') 325 326
+('bacbabc', 'bbbabc') 325 347
+('bacbabc', 'bacbbb') 325 329
+('bacbbac', 'bbbbac') 328 350
+('bacbbac', 'bacbbb') 328 329
+('babaccb', 'bacaaccb') 297 313
+('babaccb', 'babbcb') 297 301
+('babaccb', 'bbbacb') 297 349
+('babaccb', 'bbacbb') 297 345
+('babacbc', 'bacaacbc') 295 311
+('babacbc', 'babaccac') 295 296
+('babacbc', 'babbbc') 295 299
+('babacbc', 'bbbacb') 295 349
+('babacbc', 'bbacbb') 295 345
+('bababcc', 'bacaabcc') 293 309
+('bababcc', 'babacacc') 293 294
+('bababcc', 'babbbc') 293 299
+('bababcc', 'bbbabc') 293 347
+('bababcc', 'bbabcb') 293 339
+('babcacb', 'bacacacb') 305 321
+('babcacb', 'bbbacb') 305 349
+('babcacb', 'babcbb') 305 307
+('babcabc', 'bacacabc') 303 319
+('babcabc', 'babcacac') 303 304
+('babcabc', 'bbbabc') 303 347
+('babcabc', 'babcbb') 303 307
+('babcbac', 'bacacbac') 306 322
+('babcbac', 'bbbbac') 306 350
+('babcbac', 'babcbb') 306 307
+('babbacc', 'bacabacc') 298 314
+('babbacc', 'babcaacc') 298 302
+('babbacc', 'babbbc') 298 299
+('babbacc', 'bbbbac') 298 350
+('babbacc', 'bbbacb') 298 349
+('babbcac', 'bacabcac') 300 316
+('babbcac', 'babcacac') 300 304
+('babbcac', 'bbbbac') 300 350
+('babbcac', 'babbcb') 300 301
+('bbaaccb', 'bbabcb') 335 339
+('bbaaccb', 'bbbacb') 335 349
+('bbaaccb', 'bbacbb') 335 345
+('bbaacbc', 'bbaaccac') 333 334
+('bbaacbc', 'bbabbc') 333 337
+('bbaacbc', 'bbbacb') 333 349
+('bbaacbc', 'bbacbb') 333 345
+('bbaabcc', 'bbaacacc') 331 332
+('bbaabcc', 'bbabbc') 331 337
+('bbaabcc', 'bbbabc') 331 347
+('bbaabcc', 'bbabcb') 331 339
+('bbacacb', 'bbbacb') 343 349
+('bbacacb', 'bbacbb') 343 345
+('bbacabc', 'bbacacac') 341 342
+('bbacabc', 'bbbabc') 341 347
+('bbacabc', 'bbacbb') 341 345
+('bbacbac', 'bbbbac') 344 350
+('bbacbac', 'bbacbb') 344 345
+('bbabacc', 'bbacaacc') 336 340
+('bbabacc', 'bbabbc') 336 337
+('bbabacc', 'bbbbac') 336 350
+('bbabacc', 'bbbacb') 336 349
+('bbabcac', 'bbacacac') 338 342
+('bbabcac', 'bbbbac') 338 350
+('bbabcac', 'bbabcb') 338 339
+('bbbaacc', 'bbbabc') 346 347
+('bbbaacc', 'bbbbac') 346 350
+('bbbaacc', 'bbbacb') 346 349
+('bbbacac', 'bbbbac') 348 350
+('bbbacac', 'bbbacb') 348 349
+('aaacccbb', 'aabccbb') 33 63
+('aaacccbb', 'abaccbb') 33 147
+('aaacccbb', 'aacbcbb') 33 100
+('aaacccbb', 'baaccbb') 33 291
+('aaacccbb', 'aaccbbb') 33 117
+('aaaccbcb', 'aaacccacb') 29 31
+('aaaccbcb', 'aabcbcb') 29 57
+('aaaccbcb', 'abacbcb') 29 141
+('aaaccbcb', 'aacbbcb') 29 94
+('aaaccbcb', 'baaccbb') 29 291
+('aaaccbcb', 'aaccbbb') 29 117
+('aaaccbbc', 'aaacccabc') 27 30
+('aaaccbbc', 'aaaccbcac') 27 28
+('aaaccbbc', 'aabcbbc') 27 55
+('aaaccbbc', 'abacbbc') 27 139
+('aaaccbbc', 'aacbbbc') 27 92
+('aaaccbbc', 'baaccbb') 27 291
+('aaaccbbc', 'aaccbbb') 27 117
+('aaacbccb', 'aaaccaccb') 22 25
+('aaacbccb', 'aabbccb') 22 47
+('aaacbccb', 'abacbcb') 22 141
+('aaacbccb', 'aacbbcb') 22 94
+('aaacbccb', 'baacbcb') 22 285
+('aaacbccb', 'aacbcbb') 22 100
+('aaacbcbc', 'aaaccacbc') 20 24
+('aaacbcbc', 'aaacbccac') 20 21
+('aaacbcbc', 'aabbcbc') 20 45
+('aaacbcbc', 'abacbbc') 20 139
+('aaacbcbc', 'aacbbbc') 20 92
+('aaacbcbc', 'baacbcb') 20 285
+('aaacbcbc', 'aacbcbb') 20 100
+('aaacbbcc', 'aaaccabcc') 18 23
+('aaacbbcc', 'aaacbcacc') 18 19
+('aaacbbcc', 'aabbbcc') 18 43
+('aaacbbcc', 'abacbbc') 18 139
+('aaacbbcc', 'aacbbbc') 18 92
+('aaacbbcc', 'baacbbc') 18 283
+('aaacbbcc', 'aacbbcb') 18 94
+('aaabcccb', 'aaacacccb') 12 16
+('aaabcccb', 'aabbccb') 12 47
+('aaabcccb', 'ababccb') 12 131
+('aaabcccb', 'aabcbcb') 12 57
+('aaabcccb', 'baabccb') 12 275
+('aaabcccb', 'aabccbb') 12 63
+('aaabccbc', 'aaacaccbc') 10 15
+('aaabccbc', 'aaabcccac') 10 11
+('aaabccbc', 'aabbcbc') 10 45
+('aaabccbc', 'ababcbc') 10 129
+('aaabccbc', 'aabcbbc') 10 55
+('aaabccbc', 'baabccb') 10 275
+('aaabccbc', 'aabccbb') 10 63
+('aaabcbcc', 'aaacacbcc') 8 14
+('aaabcbcc', 'aaabccacc') 8 9
+('aaabcbcc', 'aabbbcc') 8 43
+('aaabcbcc', 'ababcbc') 8 129
+('aaabcbcc', 'aabcbbc') 8 55
+('aaabcbcc', 'baabcbc') 8 273
+('aaabcbcc', 'aabcbcb') 8 57
+('aaabbccc', 'aaacabccc') 6 13
+('aaabbccc', 'aaabcaccc') 6 7
+('aaabbccc', 'aabbbcc') 6 43
+('aaabbccc', 'ababbcc') 6 127
+('aaabbccc', 'aabbcbc') 6 45
+('aaabbccc', 'baabbcc') 6 271
+('aaabbccc', 'aabbccb') 6 47
+('aacaccbb', 'abaccbb') 84 147
+('aacaccbb', 'aacbcbb') 84 100
+('aacaccbb', 'bacacbb') 84 323
+('aacaccbb', 'acacbbb') 84 239
+('aacacbcb', 'aacaccacb') 80 82
+('aacacbcb', 'abacbcb') 80 141
+('aacacbcb', 'aacbbcb') 80 94
+('aacacbcb', 'bacacbb') 80 323
+('aacacbcb', 'acacbbb') 80 239
+('aacacbbc', 'aacaccabc') 78 81
+('aacacbbc', 'aacacbcac') 78 79
+('aacacbbc', 'abacbbc') 78 139
+('aacacbbc', 'aacbbbc') 78 92
+('aacacbbc', 'bacacbb') 78 323
+('aacacbbc', 'acacbbb') 78 239
+('aacabccb', 'aacacaccb') 73 76
+('aacabccb', 'ababccb') 73 131
+('aacabccb', 'aacbbcb') 73 94
+('aacabccb', 'bacabcb') 73 317
+('aacabccb', 'acabcbb') 73 222
+('aacabcbc', 'aacacacbc') 71 75
+('aacabcbc', 'aacabccac') 71 72
+('aacabcbc', 'ababcbc') 71 129
+('aacabcbc', 'aacbbbc') 71 92
+('aacabcbc', 'bacabcb') 71 317
+('aacabcbc', 'acabcbb') 71 222
+('aacabbcc', 'aacacabcc') 69 74
+('aacabbcc', 'aacabcacc') 69 70
+('aacabbcc', 'ababbcc') 69 127
+('aacabbcc', 'aacbbbc') 69 92
+('aacabbcc', 'bacabbc') 69 315
+('aacabbcc', 'acabbcb') 69 216
+('aaccacbb', 'abcacbb') 111 179
+('aaccacbb', 'bacacbb') 111 323
+('aaccacbb', 'acbacbb') 111 255
+('aaccacbb', 'aaccbbb') 111 117
+('aaccabcb', 'aaccacacb') 107 109
+('aaccabcb', 'abcabcb') 107 173
+('aaccabcb', 'bacabcb') 107 317
+('aaccabcb', 'acbabcb') 107 249
+('aaccabcb', 'aaccbbb') 107 117
+('aaccabbc', 'aaccacabc') 105 108
+('aaccabbc', 'aaccabcac') 105 106
+('aaccabbc', 'abcabbc') 105 171
+('aaccabbc', 'bacabbc') 105 315
+('aaccabbc', 'acbabbc') 105 247
+('aaccabbc', 'aaccbbb') 105 117
+('aaccbacb', 'abcbacb') 115 183
+('aaccbacb', 'bacbacb') 115 327
+('aaccbacb', 'acbbacb') 115 259
+('aaccbacb', 'aaccbbb') 115 117
+('aaccbabc', 'aaccbacac') 113 114
+('aaccbabc', 'abcbabc') 113 181
+('aaccbabc', 'bacbabc') 113 325
+('aaccbabc', 'acbbabc') 113 257
+('aaccbabc', 'aaccbbb') 113 117
+('aaccbbac', 'abcbbac') 116 184
+('aaccbbac', 'bacbbac') 116 328
+('aaccbbac', 'acbbbac') 116 260
+('aaccbbac', 'aaccbbb') 116 117
+('aacbaccb', 'aaccaaccb') 90 103
+('aacbaccb', 'abbaccb') 90 153
+('aacbaccb', 'aacbbcb') 90 94
+('aacbaccb', 'bacbacb') 90 327
+('aacbaccb', 'acbacbb') 90 255
+('aacbacbc', 'aaccaacbc') 88 102
+('aacbacbc', 'aacbaccac') 88 89
+('aacbacbc', 'abbacbc') 88 151
+('aacbacbc', 'aacbbbc') 88 92
+('aacbacbc', 'bacbacb') 88 327
+('aacbacbc', 'acbacbb') 88 255
+('aacbabcc', 'aaccaabcc') 86 101
+('aacbabcc', 'aacbacacc') 86 87
+('aacbabcc', 'abbabcc') 86 149
+('aacbabcc', 'aacbbbc') 86 92
+('aacbabcc', 'bacbabc') 86 325
+('aacbabcc', 'acbabcb') 86 249
+('aacbcacb', 'aaccacacb') 98 109
+('aacbcacb', 'abbcacb') 98 161
+('aacbcacb', 'bacbacb') 98 327
+('aacbcacb', 'acbbacb') 98 259
+('aacbcacb', 'aacbcbb') 98 100
+('aacbcabc', 'aaccacabc') 96 108
+('aacbcabc', 'aacbcacac') 96 97
+('aacbcabc', 'abbcabc') 96 159
+('aacbcabc', 'bacbabc') 96 325
+('aacbcabc', 'acbbabc') 96 257
+('aacbcabc', 'aacbcbb') 96 100
+('aacbcbac', 'aaccacbac') 99 110
+('aacbcbac', 'abbcbac') 99 162
+('aacbcbac', 'bacbbac') 99 328
+('aacbcbac', 'acbbbac') 99 260
+('aacbcbac', 'aacbcbb') 99 100
+('aacbbacc', 'aaccabacc') 91 104
+('aacbbacc', 'aacbcaacc') 91 95
+('aacbbacc', 'abbbacc') 91 154
+('aacbbacc', 'aacbbbc') 91 92
+('aacbbacc', 'bacbbac') 91 328
+('aacbbacc', 'acbbacb') 91 259
+('aacbbcac', 'aaccabcac') 93 106
+('aacbbcac', 'aacbcacac') 93 97
+('aacbbcac', 'abbbcac') 93 156
+('aacbbcac', 'bacbbac') 93 328
+('aacbbcac', 'acbbbac') 93 260
+('aacbbcac', 'aacbbcb') 93 94
+('aabacccb', 'aacaacccb') 41 67
+('aabacccb', 'aabbccb') 41 47
+('aabacccb', 'abbaccb') 41 153
+('aabacccb', 'abacbcb') 41 141
+('aabacccb', 'babaccb') 41 297
+('aabacccb', 'abaccbb') 41 147
+('aabaccbc', 'aacaaccbc') 39 66
+('aabaccbc', 'aabacccac') 39 40
+('aabaccbc', 'aabbcbc') 39 45
+('aabaccbc', 'abbacbc') 39 151
+('aabaccbc', 'abacbbc') 39 139
+('aabaccbc', 'babaccb') 39 297
+('aabaccbc', 'abaccbb') 39 147
+('aabacbcc', 'aacaacbcc') 37 65
+('aabacbcc', 'aabaccacc') 37 38
+('aabacbcc', 'aabbbcc') 37 43
+('aabacbcc', 'abbacbc') 37 151
+('aabacbcc', 'abacbbc') 37 139
+('aabacbcc', 'babacbc') 37 295
+('aabacbcc', 'abacbcb') 37 141
+('aababccc', 'aacaabccc') 35 64
+('aababccc', 'aabacaccc') 35 36
+('aababccc', 'aabbbcc') 35 43
+('aababccc', 'abbabcc') 35 149
+('aababccc', 'ababcbc') 35 129
+('aababccc', 'bababcc') 35 293
+('aababccc', 'ababccb') 35 131
+('aabcaccb', 'aacacaccb') 53 76
+('aabcaccb', 'abbaccb') 53 153
+('aabcaccb', 'aabcbcb') 53 57
+('aabcaccb', 'babcacb') 53 305
+('aabcaccb', 'abcacbb') 53 179
+('aabcacbc', 'aacacacbc') 51 75
+('aabcacbc', 'aabcaccac') 51 52
+('aabcacbc', 'abbacbc') 51 151
+('aabcacbc', 'aabcbbc') 51 55
+('aabcacbc', 'babcacb') 51 305
+('aabcacbc', 'abcacbb') 51 179
+('aabcabcc', 'aacacabcc') 49 74
+('aabcabcc', 'aabcacacc') 49 50
+('aabcabcc', 'abbabcc') 49 149
+('aabcabcc', 'aabcbbc') 49 55
+('aabcabcc', 'babcabc') 49 303
+('aabcabcc', 'abcabcb') 49 173
+('aabccacb', 'aacaccacb') 61 82
+('aabccacb', 'abbcacb') 61 161
+('aabccacb', 'babcacb') 61 305
+('aabccacb', 'abcbacb') 61 183
+('aabccacb', 'aabccbb') 61 63
+('aabccabc', 'aacaccabc') 59 81
+('aabccabc', 'aabccacac') 59 60
+('aabccabc', 'abbcabc') 59 159
+('aabccabc', 'babcabc') 59 303
+('aabccabc', 'abcbabc') 59 181
+('aabccabc', 'aabccbb') 59 63
+('aabccbac', 'aacaccbac') 62 83
+('aabccbac', 'abbcbac') 62 162
+('aabccbac', 'babcbac') 62 306
+('aabccbac', 'abcbbac') 62 184
+('aabccbac', 'aabccbb') 62 63
+('aabcbacc', 'aacacbacc') 54 77
+('aabcbacc', 'aabccaacc') 54 58
+('aabcbacc', 'abbbacc') 54 154
+('aabcbacc', 'aabcbbc') 54 55
+('aabcbacc', 'babcbac') 54 306
+('aabcbacc', 'abcbacb') 54 183
+('aabcbcac', 'aacacbcac') 56 79
+('aabcbcac', 'aabccacac') 56 60
+('aabcbcac', 'abbbcac') 56 156
+('aabcbcac', 'babcbac') 56 306
+('aabcbcac', 'abcbbac') 56 184
+('aabcbcac', 'aabcbcb') 56 57
+('aabbaccc', 'aacabaccc') 42 68
+('aabbaccc', 'aabcaaccc') 42 48
+('aabbaccc', 'aabbbcc') 42 43
+('aabbaccc', 'abbbacc') 42 154
+('aabbaccc', 'abbacbc') 42 151
+('aabbaccc', 'babbacc') 42 298
+('aabbaccc', 'abbaccb') 42 153
+('aabbcacc', 'aacabcacc') 44 70
+('aabbcacc', 'aabcacacc') 44 50
+('aabbcacc', 'abbbacc') 44 154
+('aabbcacc', 'aabbcbc') 44 45
+('aabbcacc', 'babbcac') 44 300
+('aabbcacc', 'abbcacb') 44 161
+('aabbccac', 'aacabccac') 46 72
+('aabbccac', 'aabcaccac') 46 52
+('aabbccac', 'abbbcac') 46 156
+('aabbccac', 'babbcac') 46 300
+('aabbccac', 'abbcbac') 46 162
+('aabbccac', 'aabbccb') 46 47
+('acaaccbb', 'baaccbb') 206 291
+('acaaccbb', 'acabcbb') 206 222
+('acaaccbb', 'acbacbb') 206 255
+('acaaccbb', 'acacbbb') 206 239
+('acaacbcb', 'acaaccacb') 202 204
+('acaacbcb', 'baacbcb') 202 285
+('acaacbcb', 'acabbcb') 202 216
+('acaacbcb', 'acbacbb') 202 255
+('acaacbcb', 'acacbbb') 202 239
+('acaacbbc', 'acaaccabc') 200 203
+('acaacbbc', 'acaacbcac') 200 201
+('acaacbbc', 'baacbbc') 200 283
+('acaacbbc', 'acabbbc') 200 214
+('acaacbbc', 'acbacbb') 200 255
+('acaacbbc', 'acacbbb') 200 239
+('acaabccb', 'acaacaccb') 195 198
+('acaabccb', 'baabccb') 195 275
+('acaabccb', 'acabbcb') 195 216
+('acaabccb', 'acbabcb') 195 249
+('acaabccb', 'acabcbb') 195 222
+('acaabcbc', 'acaacacbc') 193 197
+('acaabcbc', 'acaabccac') 193 194
+('acaabcbc', 'baabcbc') 193 273
+('acaabcbc', 'acabbbc') 193 214
+('acaabcbc', 'acbabcb') 193 249
+('acaabcbc', 'acabcbb') 193 222
+('acaabbcc', 'acaacabcc') 191 196
+('acaabbcc', 'acaabcacc') 191 192
+('acaabbcc', 'baabbcc') 191 271
+('acaabbcc', 'acabbbc') 191 214
+('acaabbcc', 'acbabbc') 191 247
+('acaabbcc', 'acabbcb') 191 216
+('acacacbb', 'bacacbb') 233 323
+('acacacbb', 'acbacbb') 233 255
+('acacacbb', 'acacbbb') 233 239
+('acacabcb', 'acacacacb') 229 231
+('acacabcb', 'bacabcb') 229 317
+('acacabcb', 'acbabcb') 229 249
+('acacabcb', 'acacbbb') 229 239
+('acacabbc', 'acacacabc') 227 230
+('acacabbc', 'acacabcac') 227 228
+('acacabbc', 'bacabbc') 227 315
+('acacabbc', 'acbabbc') 227 247
+('acacabbc', 'acacbbb') 227 239
+('acacbacb', 'bacbacb') 237 327
+('acacbacb', 'acbbacb') 237 259
+('acacbacb', 'acacbbb') 237 239
+('acacbabc', 'acacbacac') 235 236
+('acacbabc', 'bacbabc') 235 325
+('acacbabc', 'acbbabc') 235 257
+('acacbabc', 'acacbbb') 235 239
+('acacbbac', 'bacbbac') 238 328
+('acacbbac', 'acbbbac') 238 260
+('acacbbac', 'acacbbb') 238 239
+('acabaccb', 'acacaaccb') 212 225
+('acabaccb', 'babaccb') 212 297
+('acabaccb', 'acabbcb') 212 216
+('acabaccb', 'acbbacb') 212 259
+('acabaccb', 'acbacbb') 212 255
+('acabacbc', 'acacaacbc') 210 224
+('acabacbc', 'acabaccac') 210 211
+('acabacbc', 'babacbc') 210 295
+('acabacbc', 'acabbbc') 210 214
+('acabacbc', 'acbbacb') 210 259
+('acabacbc', 'acbacbb') 210 255
+('acababcc', 'acacaabcc') 208 223
+('acababcc', 'acabacacc') 208 209
+('acababcc', 'bababcc') 208 293
+('acababcc', 'acabbbc') 208 214
+('acababcc', 'acbbabc') 208 257
+('acababcc', 'acbabcb') 208 249
+('acabcacb', 'acacacacb') 220 231
+('acabcacb', 'babcacb') 220 305
+('acabcacb', 'acbbacb') 220 259
+('acabcacb', 'acabcbb') 220 222
+('acabcabc', 'acacacabc') 218 230
+('acabcabc', 'acabcacac') 218 219
+('acabcabc', 'babcabc') 218 303
+('acabcabc', 'acbbabc') 218 257
+('acabcabc', 'acabcbb') 218 222
+('acabcbac', 'acacacbac') 221 232
+('acabcbac', 'babcbac') 221 306
+('acabcbac', 'acbbbac') 221 260
+('acabcbac', 'acabcbb') 221 222
+('acabbacc', 'acacabacc') 213 226
+('acabbacc', 'acabcaacc') 213 217
+('acabbacc', 'babbacc') 213 298
+('acabbacc', 'acabbbc') 213 214
+('acabbacc', 'acbbbac') 213 260
+('acabbacc', 'acbbacb') 213 259
+('acabbcac', 'acacabcac') 215 228
+('acabbcac', 'acabcacac') 215 219
+('acabbcac', 'babbcac') 215 300
+('acabbcac', 'acbbbac') 215 260
+('acabbcac', 'acabbcb') 215 216
+('acbaaccb', 'bbaaccb') 245 335
+('acbaaccb', 'acbabcb') 245 249
+('acbaaccb', 'acbbacb') 245 259
+('acbaaccb', 'acbacbb') 245 255
+('acbaacbc', 'acbaaccac') 243 244
+('acbaacbc', 'bbaacbc') 243 333
+('acbaacbc', 'acbabbc') 243 247
+('acbaacbc', 'acbbacb') 243 259
+('acbaacbc', 'acbacbb') 243 255
+('acbaabcc', 'acbaacacc') 241 242
+('acbaabcc', 'bbaabcc') 241 331
+('acbaabcc', 'acbabbc') 241 247
+('acbaabcc', 'acbbabc') 241 257
+('acbaabcc', 'acbabcb') 241 249
+('acbacacb', 'bbacacb') 253 343
+('acbacacb', 'acbbacb') 253 259
+('acbacacb', 'acbacbb') 253 255
+('acbacabc', 'acbacacac') 251 252
+('acbacabc', 'bbacabc') 251 341
+('acbacabc', 'acbbabc') 251 257
+('acbacabc', 'acbacbb') 251 255
+('acbacbac', 'bbacbac') 254 344
+('acbacbac', 'acbbbac') 254 260
+('acbacbac', 'acbacbb') 254 255
+('acbabacc', 'acbacaacc') 246 250
+('acbabacc', 'bbabacc') 246 336
+('acbabacc', 'acbabbc') 246 247
+('acbabacc', 'acbbbac') 246 260
+('acbabacc', 'acbbacb') 246 259
+('acbabcac', 'acbacacac') 248 252
+('acbabcac', 'bbabcac') 248 338
+('acbabcac', 'acbbbac') 248 260
+('acbabcac', 'acbabcb') 248 249
+('acbbaacc', 'bbbaacc') 256 346
+('acbbaacc', 'acbbabc') 256 257
+('acbbaacc', 'acbbbac') 256 260
+('acbbaacc', 'acbbacb') 256 259
+('acbbacac', 'bbbacac') 258 348
+('acbbacac', 'acbbbac') 258 260
+('acbbacac', 'acbbacb') 258 259
+('abaacccb', 'acaaacccb') 125 189
+('abaacccb', 'ababccb') 125 131
+('abaacccb', 'abbaccb') 125 153
+('abaacccb', 'abacbcb') 125 141
+('abaacccb', 'bbaaccb') 125 335
+('abaacccb', 'baaccbb') 125 291
+('abaaccbc', 'acaaaccbc') 123 188
+('abaaccbc', 'abaacccac') 123 124
+('abaaccbc', 'ababcbc') 123 129
+('abaaccbc', 'abbacbc') 123 151
+('abaaccbc', 'abacbbc') 123 139
+('abaaccbc', 'bbaaccb') 123 335
+('abaaccbc', 'baaccbb') 123 291
+('abaacbcc', 'acaaacbcc') 121 187
+('abaacbcc', 'abaaccacc') 121 122
+('abaacbcc', 'ababbcc') 121 127
+('abaacbcc', 'abbacbc') 121 151
+('abaacbcc', 'abacbbc') 121 139
+('abaacbcc', 'bbaacbc') 121 333
+('abaacbcc', 'baacbcb') 121 285
+('abaabccc', 'acaaabccc') 119 186
+('abaabccc', 'abaacaccc') 119 120
+('abaabccc', 'ababbcc') 119 127
+('abaabccc', 'abbabcc') 119 149
+('abaabccc', 'ababcbc') 119 129
+('abaabccc', 'bbaabcc') 119 331
+('abaabccc', 'baabccb') 119 275
+('abacaccb', 'acaacaccb') 137 198
+('abacaccb', 'abbaccb') 137 153
+('abacaccb', 'abacbcb') 137 141
+('abacaccb', 'bbacacb') 137 343
+('abacaccb', 'bacacbb') 137 323
+('abacacbc', 'acaacacbc') 135 197
+('abacacbc', 'abacaccac') 135 136
+('abacacbc', 'abbacbc') 135 151
+('abacacbc', 'abacbbc') 135 139
+('abacacbc', 'bbacacb') 135 343
+('abacacbc', 'bacacbb') 135 323
+('abacabcc', 'acaacabcc') 133 196
+('abacabcc', 'abacacacc') 133 134
+('abacabcc', 'abbabcc') 133 149
+('abacabcc', 'abacbbc') 133 139
+('abacabcc', 'bbacabc') 133 341
+('abacabcc', 'bacabcb') 133 317
+('abaccacb', 'acaaccacb') 145 204
+('abaccacb', 'abbcacb') 145 161
+('abaccacb', 'bbacacb') 145 343
+('abaccacb', 'bacbacb') 145 327
+('abaccacb', 'abaccbb') 145 147
+('abaccabc', 'acaaccabc') 143 203
+('abaccabc', 'abaccacac') 143 144
+('abaccabc', 'abbcabc') 143 159
+('abaccabc', 'bbacabc') 143 341
+('abaccabc', 'bacbabc') 143 325
+('abaccabc', 'abaccbb') 143 147
+('abaccbac', 'acaaccbac') 146 205
+('abaccbac', 'abbcbac') 146 162
+('abaccbac', 'bbacbac') 146 344
+('abaccbac', 'bacbbac') 146 328
+('abaccbac', 'abaccbb') 146 147
+('abacbacc', 'acaacbacc') 138 199
+('abacbacc', 'abaccaacc') 138 142
+('abacbacc', 'abbbacc') 138 154
+('abacbacc', 'abacbbc') 138 139
+('abacbacc', 'bbacbac') 138 344
+('abacbacc', 'bacbacb') 138 327
+('abacbcac', 'acaacbcac') 140 201
+('abacbcac', 'abaccacac') 140 144
+('abacbcac', 'abbbcac') 140 156
+('abacbcac', 'bbacbac') 140 344
+('abacbcac', 'bacbbac') 140 328
+('abacbcac', 'abacbcb') 140 141
+('ababaccc', 'acaabaccc') 126 190
+('ababaccc', 'abacaaccc') 126 132
+('ababaccc', 'ababbcc') 126 127
+('ababaccc', 'abbbacc') 126 154
+('ababaccc', 'abbacbc') 126 151
+('ababaccc', 'bbabacc') 126 336
+('ababaccc', 'babaccb') 126 297
+('ababcacc', 'acaabcacc') 128 192
+('ababcacc', 'abacacacc') 128 134
+('ababcacc', 'abbbacc') 128 154
+('ababcacc', 'ababcbc') 128 129
+('ababcacc', 'bbabcac') 128 338
+('ababcacc', 'babcacb') 128 305
+('ababccac', 'acaabccac') 130 194
+('ababccac', 'abacaccac') 130 136
+('ababccac', 'abbbcac') 130 156
+('ababccac', 'bbabcac') 130 338
+('ababccac', 'babcbac') 130 306
+('ababccac', 'ababccb') 130 131
+('abcaaccb', 'acacaaccb') 169 225
+('abcaaccb', 'bbaaccb') 169 335
+('abcaaccb', 'abcabcb') 169 173
+('abcaaccb', 'abcbacb') 169 183
+('abcaaccb', 'abcacbb') 169 179
+('abcaacbc', 'acacaacbc') 167 224
+('abcaacbc', 'abcaaccac') 167 168
+('abcaacbc', 'bbaacbc') 167 333
+('abcaacbc', 'abcabbc') 167 171
+('abcaacbc', 'abcbacb') 167 183
+('abcaacbc', 'abcacbb') 167 179
+('abcaabcc', 'acacaabcc') 165 223
+('abcaabcc', 'abcaacacc') 165 166
+('abcaabcc', 'bbaabcc') 165 331
+('abcaabcc', 'abcabbc') 165 171
+('abcaabcc', 'abcbabc') 165 181
+('abcaabcc', 'abcabcb') 165 173
+('abcacacb', 'acacacacb') 177 231
+('abcacacb', 'bbacacb') 177 343
+('abcacacb', 'abcbacb') 177 183
+('abcacacb', 'abcacbb') 177 179
+('abcacabc', 'acacacabc') 175 230
+('abcacabc', 'abcacacac') 175 176
+('abcacabc', 'bbacabc') 175 341
+('abcacabc', 'abcbabc') 175 181
+('abcacabc', 'abcacbb') 175 179
+('abcacbac', 'acacacbac') 178 232
+('abcacbac', 'bbacbac') 178 344
+('abcacbac', 'abcbbac') 178 184
+('abcacbac', 'abcacbb') 178 179
+('abcabacc', 'acacabacc') 170 226
+('abcabacc', 'abcacaacc') 170 174
+('abcabacc', 'bbabacc') 170 336
+('abcabacc', 'abcabbc') 170 171
+('abcabacc', 'abcbbac') 170 184
+('abcabacc', 'abcbacb') 170 183
+('abcabcac', 'acacabcac') 172 228
+('abcabcac', 'abcacacac') 172 176
+('abcabcac', 'bbabcac') 172 338
+('abcabcac', 'abcbbac') 172 184
+('abcabcac', 'abcabcb') 172 173
+('abcbaacc', 'acacbaacc') 180 234
+('abcbaacc', 'bbbaacc') 180 346
+('abcbaacc', 'abcbabc') 180 181
+('abcbaacc', 'abcbbac') 180 184
+('abcbaacc', 'abcbacb') 180 183
+('abcbacac', 'acacbacac') 182 236
+('abcbacac', 'bbbacac') 182 348
+('abcbacac', 'abcbbac') 182 184
+('abcbacac', 'abcbacb') 182 183
+('abbaaccc', 'acabaaccc') 148 207
+('abbaaccc', 'abcaaaccc') 148 164
+('abbaaccc', 'abbabcc') 148 149
+('abbaaccc', 'abbbacc') 148 154
+('abbaaccc', 'abbacbc') 148 151
+('abbaaccc', 'bbbaacc') 148 346
+('abbaaccc', 'bbaaccb') 148 335
+('abbacacc', 'acabacacc') 150 209
+('abbacacc', 'abcaacacc') 150 166
+('abbacacc', 'abbbacc') 150 154
+('abbacacc', 'abbacbc') 150 151
+('abbacacc', 'bbbacac') 150 348
+('abbacacc', 'bbacacb') 150 343
+('abbaccac', 'acabaccac') 152 211
+('abbaccac', 'abcaaccac') 152 168
+('abbaccac', 'abbbcac') 152 156
+('abbaccac', 'bbbacac') 152 348
+('abbaccac', 'bbacbac') 152 344
+('abbaccac', 'abbaccb') 152 153
+('abbcaacc', 'acabcaacc') 158 217
+('abbcaacc', 'abcacaacc') 158 174
+('abbcaacc', 'bbbaacc') 158 346
+('abbcaacc', 'abbcabc') 158 159
+('abbcaacc', 'abbcbac') 158 162
+('abbcaacc', 'abbcacb') 158 161
+('abbcacac', 'acabcacac') 160 219
+('abbcacac', 'abcacacac') 160 176
+('abbcacac', 'bbbacac') 160 348
+('abbcacac', 'abbcbac') 160 162
+('abbcacac', 'abbcacb') 160 161
+('baaacccb', 'baabccb') 269 275
+('baaacccb', 'babaccb') 269 297
+('baaacccb', 'baacbcb') 269 285
+('baaacccb', 'bbaaccb') 269 335
+('baaacccb', 'baaccbb') 269 291
+('baaaccbc', 'baaacccac') 267 268
+('baaaccbc', 'baabcbc') 267 273
+('baaaccbc', 'babacbc') 267 295
+('baaaccbc', 'baacbbc') 267 283
+('baaaccbc', 'bbaaccb') 267 335
+('baaaccbc', 'baaccbb') 267 291
+('baaacbcc', 'baaaccacc') 265 266
+('baaacbcc', 'baabbcc') 265 271
+('baaacbcc', 'babacbc') 265 295
+('baaacbcc', 'baacbbc') 265 283
+('baaacbcc', 'bbaacbc') 265 333
+('baaacbcc', 'baacbcb') 265 285
+('baaabccc', 'baaacaccc') 263 264
+('baaabccc', 'baabbcc') 263 271
+('baaabccc', 'bababcc') 263 293
+('baaabccc', 'baabcbc') 263 273
+('baaabccc', 'bbaabcc') 263 331
+('baaabccc', 'baabccb') 263 275
+('baacaccb', 'babaccb') 281 297
+('baacaccb', 'baacbcb') 281 285
+('baacaccb', 'bbacacb') 281 343
+('baacaccb', 'bacacbb') 281 323
+('baacacbc', 'baacaccac') 279 280
+('baacacbc', 'babacbc') 279 295
+('baacacbc', 'baacbbc') 279 283
+('baacacbc', 'bbacacb') 279 343
+('baacacbc', 'bacacbb') 279 323
+('baacabcc', 'baacacacc') 277 278
+('baacabcc', 'bababcc') 277 293
+('baacabcc', 'baacbbc') 277 283
+('baacabcc', 'bbacabc') 277 341
+('baacabcc', 'bacabcb') 277 317
+('baaccacb', 'babcacb') 289 305
+('baaccacb', 'bbacacb') 289 343
+('baaccacb', 'bacbacb') 289 327
+('baaccacb', 'baaccbb') 289 291
+('baaccabc', 'baaccacac') 287 288
+('baaccabc', 'babcabc') 287 303
+('baaccabc', 'bbacabc') 287 341
+('baaccabc', 'bacbabc') 287 325
+('baaccabc', 'baaccbb') 287 291
+('baaccbac', 'babcbac') 290 306
+('baaccbac', 'bbacbac') 290 344
+('baaccbac', 'bacbbac') 290 328
+('baaccbac', 'baaccbb') 290 291
+('baacbacc', 'baaccaacc') 282 286
+('baacbacc', 'babbacc') 282 298
+('baacbacc', 'baacbbc') 282 283
+('baacbacc', 'bbacbac') 282 344
+('baacbacc', 'bacbacb') 282 327
+('baacbcac', 'baaccacac') 284 288
+('baacbcac', 'babbcac') 284 300
+('baacbcac', 'bbacbac') 284 344
+('baacbcac', 'bacbbac') 284 328
+('baacbcac', 'baacbcb') 284 285
+('baabaccc', 'baacaaccc') 270 276
+('baabaccc', 'baabbcc') 270 271
+('baabaccc', 'babbacc') 270 298
+('baabaccc', 'babacbc') 270 295
+('baabaccc', 'bbabacc') 270 336
+('baabaccc', 'babaccb') 270 297
+('baabcacc', 'baacacacc') 272 278
+('baabcacc', 'babbacc') 272 298
+('baabcacc', 'baabcbc') 272 273
+('baabcacc', 'bbabcac') 272 338
+('baabcacc', 'babcacb') 272 305
+('baabccac', 'baacaccac') 274 280
+('baabccac', 'babbcac') 274 300
+('baabccac', 'bbabcac') 274 338
+('baabccac', 'babcbac') 274 306
+('baabccac', 'baabccb') 274 275
+('bacaaccb', 'bbaaccb') 313 335
+('bacaaccb', 'bacabcb') 313 317
+('bacaaccb', 'bacbacb') 313 327
+('bacaaccb', 'bacacbb') 313 323
+('bacaacbc', 'bacaaccac') 311 312
+('bacaacbc', 'bbaacbc') 311 333
+('bacaacbc', 'bacabbc') 311 315
+('bacaacbc', 'bacbacb') 311 327
+('bacaacbc', 'bacacbb') 311 323
+('bacaabcc', 'bacaacacc') 309 310
+('bacaabcc', 'bbaabcc') 309 331
+('bacaabcc', 'bacabbc') 309 315
+('bacaabcc', 'bacbabc') 309 325
+('bacaabcc', 'bacabcb') 309 317
+('bacacacb', 'bbacacb') 321 343
+('bacacacb', 'bacbacb') 321 327
+('bacacacb', 'bacacbb') 321 323
+('bacacabc', 'bacacacac') 319 320
+('bacacabc', 'bbacabc') 319 341
+('bacacabc', 'bacbabc') 319 325
+('bacacabc', 'bacacbb') 319 323
+('bacacbac', 'bbacbac') 322 344
+('bacacbac', 'bacbbac') 322 328
+('bacacbac', 'bacacbb') 322 323
+('bacabacc', 'bacacaacc') 314 318
+('bacabacc', 'bbabacc') 314 336
+('bacabacc', 'bacabbc') 314 315
+('bacabacc', 'bacbbac') 314 328
+('bacabacc', 'bacbacb') 314 327
+('bacabcac', 'bacacacac') 316 320
+('bacabcac', 'bbabcac') 316 338
+('bacabcac', 'bacbbac') 316 328
+('bacabcac', 'bacabcb') 316 317
+('bacbaacc', 'bbbaacc') 324 346
+('bacbaacc', 'bacbabc') 324 325
+('bacbaacc', 'bacbbac') 324 328
+('bacbaacc', 'bacbacb') 324 327
+('bacbacac', 'bbbacac') 326 348
+('bacbacac', 'bacbbac') 326 328
+('bacbacac', 'bacbacb') 326 327
+('babaaccc', 'bacaaaccc') 292 308
+('babaaccc', 'bababcc') 292 293
+('babaaccc', 'babbacc') 292 298
+('babaaccc', 'babacbc') 292 295
+('babaaccc', 'bbbaacc') 292 346
+('babaaccc', 'bbaaccb') 292 335
+('babacacc', 'bacaacacc') 294 310
+('babacacc', 'babbacc') 294 298
+('babacacc', 'babacbc') 294 295
+('babacacc', 'bbbacac') 294 348
+('babacacc', 'bbacacb') 294 343
+('babaccac', 'bacaaccac') 296 312
+('babaccac', 'babbcac') 296 300
+('babaccac', 'bbbacac') 296 348
+('babaccac', 'bbacbac') 296 344
+('babaccac', 'babaccb') 296 297
+('babcaacc', 'bacacaacc') 302 318
+('babcaacc', 'bbbaacc') 302 346
+('babcaacc', 'babcabc') 302 303
+('babcaacc', 'babcbac') 302 306
+('babcaacc', 'babcacb') 302 305
+('babcacac', 'bacacacac') 304 320
+('babcacac', 'bbbacac') 304 348
+('babcacac', 'babcbac') 304 306
+('babcacac', 'babcacb') 304 305
+('bbaaaccc', 'bbaabcc') 330 331
+('bbaaaccc', 'bbabacc') 330 336
+('bbaaaccc', 'bbaacbc') 330 333
+('bbaaaccc', 'bbbaacc') 330 346
+('bbaaaccc', 'bbaaccb') 330 335
+('bbaacacc', 'bbabacc') 332 336
+('bbaacacc', 'bbaacbc') 332 333
+('bbaacacc', 'bbbacac') 332 348
+('bbaacacc', 'bbacacb') 332 343
+('bbaaccac', 'bbabcac') 334 338
+('bbaaccac', 'bbbacac') 334 348
+('bbaaccac', 'bbacbac') 334 344
+('bbaaccac', 'bbaaccb') 334 335
+('bbacaacc', 'bbbaacc') 340 346
+('bbacaacc', 'bbacabc') 340 341
+('bbacaacc', 'bbacbac') 340 344
+('bbacaacc', 'bbacacb') 340 343
+('bbacacac', 'bbbacac') 342 348
+('bbacacac', 'bbacbac') 342 344
+('bbacacac', 'bbacacb') 342 343
+('aaaaccccb', 'aaabcccb') 4 12
+('aaaaccccb', 'aabacccb') 4 41
+('aaaaccccb', 'aaacbccb') 4 22
+('aaaaccccb', 'abaacccb') 4 125
+('aaaaccccb', 'aaaccbcb') 4 29
+('aaaaccccb', 'baaacccb') 4 269
+('aaaaccccb', 'aaacccbb') 4 33
